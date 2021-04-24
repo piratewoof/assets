@@ -1,0 +1,11 @@
+{
+    "name": "PirateWoof",
+    "website": "https://piratewoof.com/",
+    "description": "Pirate Woof is an automatic liquidity meme token",
+    "explorer": "https://bscscan.com/token/0xe02aedee61951eae37553d0bf624667ef710aca3",
+    "type": "BEP20",
+    "symbol": "PRTWF",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xe02aedee61951eae37553d0bf624667ef710aca3"
+}
